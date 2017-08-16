@@ -1,0 +1,7 @@
+1000 true book1 2
+2000 true book2 1
+3000 true book3 2
+4000 false book4 0
+5000 true book5 2
+6000 true book6 2
+7000 true book7 1
